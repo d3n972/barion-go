@@ -1,4 +1,4 @@
-module d3n/barion
+module d3n972/barion-go
 
 go 1.17
 
